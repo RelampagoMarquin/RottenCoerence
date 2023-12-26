@@ -1,0 +1,36 @@
+.main_container{
+    margin: 0 80px;
+    padding: 20px 20px;
+    background-color: white;
+}
+.center{
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+.main_font{
+    font-size: 20px;
+}
+p {
+    text-align: justify;
+}
+.review_movies {
+    width: 100%;
+    display: flex;
+}
+.review_movies_table {
+    width: 67%;
+    overflow-x: auto;
+    margin-right: 1%;
+}
+.review_movies_graph {
+    width: 32%;
+}
+body {
+    background-color: gray;
+}
+
+.point {
+    height: 50px !important;
+    width: 50px !important;
+}
