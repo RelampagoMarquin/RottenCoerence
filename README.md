@@ -1,8 +1,11 @@
 # RottenCoerence
 Atividade final da disciplina de analise de dados
 
+## Participantes
+- Marcos Moreira
+- Valmir Francisco
 
-# Pacotes necessarios para executar:
+## Pacotes necessarios para executar:
 - TextBlob
 - requests
 - BeautifulSoup4
